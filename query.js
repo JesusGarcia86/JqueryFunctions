@@ -1,0 +1,80 @@
+$(document).ready(function(){
+    $('#buttonadd').click(function(){
+        $('#MyParagraph').addClass('red');
+    });
+})
+$(document).ready(function(){
+    $('#sltoggle').click(function(){
+        $('#ironcat').slideToggle();
+    });
+});
+$(document).ready(function(){
+    $('#apnd').click(function(){
+        $('#pappend').append('Hello jQuery!');
+    });
+});
+$(document).ready(function(){
+    $('#hde').click(function(){
+        $('#phide').hide();
+    });
+});
+$(document).ready(function(){
+    $('#sw').click(function(){
+        $('#phide').show();
+    });
+});
+$(document).ready(function(){
+    $('#togle').click(function(){
+        $('#ptoggle').toggle();
+    });
+});
+$(document).ready(function(){
+    $('#down').click(function(){
+        $('#ptoslide').slideDown();
+    });
+});
+$(document).ready(function(){
+    $('#slideup').click(function(){
+        $('#slup').slideUp();
+    });
+});
+$(document).ready(function(){
+    $('#fadein').click(function(){
+        $('#pin').toggle();
+    });
+});
+$(document).ready(function(){
+    $('#fadeout').click(function(){
+        $('#pout').toggle();
+    });
+});
+$(document).ready(function(){
+    $('#before').click(function(){
+        $('#b4').before('Coding');
+    });
+});
+$(document).ready(function(){
+    $('#aftr').click(function(){
+        $('#par').after('Dojo');
+    });
+});
+$(document).ready(function(){
+    $('#htl').click(function(){
+        $('#phtml').HTML('<p>Coding</p><p>Dojo</p>');
+    });
+});
+$(document).ready(function(){
+    $('#attr').click(function(){
+        $('.attribute p').attr('id', 'ptoattribute');
+    });
+});
+$(document).ready(function(){
+    $('#value').click(function(){
+        $('#value').val('processing...');
+    });
+});
+$(document).ready(function(){
+    $('#text').click(function(){
+        $('ptext').text('I am awesome!');
+    });
+});

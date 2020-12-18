@@ -1,0 +1,312 @@
+* {
+    margin: auto;
+    width: 1000px;
+}
+.red {
+    background-color: red;
+}
+img {
+    width: 100px;
+}
+.add {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.add h1 {
+    text-align: center;
+}
+.add button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.add p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.slide {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.slide h1 {
+    text-align: center;
+}
+.slide button {
+    display: inline-block;
+    width: 200px;
+    box-shadow: 5px 5px 5px black;
+    margin-left: 200px;
+}
+.slide p {
+    width: 400px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+.append {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.append h1 {
+    text-align: center;
+}
+.append button {
+    display: inline-block;
+    width: 200px;
+    box-shadow: 5px 5px 5px black;
+    margin-left: 200px;
+}
+.append p {
+    width: 400px;
+    margin-left: 550px;
+    margin-top: 10px;
+}
+.show {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.show h1 {
+    text-align: center;
+}
+.show button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.show p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.hide {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.hide h1 {
+    text-align: center;
+}
+.hide button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.hide p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.toggle {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.toggle h1 {
+    text-align: center;
+}
+.toggle button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.toggle p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.sldown {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.sldown h1 {
+    text-align: center;
+}
+.sldown button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.sldown p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.slup {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.slup h1 {
+    text-align: center;
+}
+.slup button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.slup p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.fdin {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.fdin h1 {
+    text-align: center;
+}
+.fdin button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.fdin p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.fdout {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.fdout h1 {
+    text-align: center;
+}
+.fdout button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.fdout p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.bfore {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.bfore h1 {
+    text-align: center;
+}
+.bfore button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.bfore p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.after {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.after h1 {
+    text-align: center;
+}
+.after button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.after p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.html {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.html h1 {
+    text-align: center;
+}
+.html button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.html p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.attribute {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.attribute h1 {
+    text-align: center;
+}
+.attribute button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.attribute p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.val {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.val h1 {
+    text-align: center;
+}
+.val button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.val p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.txt {
+    padding: 15px;
+    border-bottom: 5px solid black;
+}
+.txt h1 {
+    text-align: center;
+}
+.txt button {
+    display: inline-block;
+    width: 200px;
+    margin-left: 200px;
+    box-shadow: 5px 5px 5px black;
+}
+.txt p {
+    display: inline-block;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 10px;
+}
